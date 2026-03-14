@@ -1,4 +1,4 @@
-## AINYC
+## AI NYC | NYC Answer Engine Optimization Agency
 
 We believe the future of search is LLM powered...
 
